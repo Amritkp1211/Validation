@@ -1,0 +1,18 @@
+.my-card{
+	padding: 20px;
+	background:#e2e2e2!important;
+	margin-left: 200px;
+	margin-right: -100px;
+}
+.search-container{
+	position: relative;
+}
+
+.search-result{
+	position: absolute;
+	background: white;
+	width: 96%;
+	padding:10px;
+	border: 1px solid #e2e2e2;
+	display: none;
+}
